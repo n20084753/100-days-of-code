@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: August 13, 2018
+### Day 0: August 13, 2018
 
 **Today's Progress**: STL.js library started with linked list implementation ES6
 
