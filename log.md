@@ -13,3 +13,13 @@
 **Today's Progress**: STL.js library made progress and implemented linked list and stack ADT's
 
 **Link to work:** [STL.js](https://github.com/n20084753/STL.js)
+
+### Day 2: August 15, 2018
+
+**Today's Progress**: STL.js library made some intresting progress in learning and implementing Queue and Set ADT's
+
+**Tomorrow's Plan**: 
+1. Include Array implentation of Stack and Queue by which i can make the access by index faster
+2. Plaining to implement Dictonary / hash table and move on to non linear data structure linke tress
+
+**Link to work:** [STL.js](https://github.com/n20084753/STL.js)
