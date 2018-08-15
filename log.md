@@ -16,7 +16,7 @@
 
 ### Day 2: August 15, 2018
 
-**Today's Progress**: STL.js library made some intresting progress in learning and implementing Queue and Set ADT's
+**Today's Progress**: STL.js library made some interesting progress in learning and implementing Queue and Set ADT's
 
 **Tomorrow's Plan**: 
 1. Include Array implentation of Stack and Queue by which i can make the access by index faster
