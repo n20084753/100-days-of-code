@@ -46,7 +46,7 @@
 
 ### Day 5: August 18, 2018
 
-**Today's Progress**: STL.js library - Landed from linear to non-linear teritory of data structure had fun learning and implementing.
+**Today's Progress**: STL.js library - Landed from linear to non-linear territory of data structure had fun learning and implementing.
 
 **Tomorrow's Plan**: Fixing the problem in binary search tree that is balance the tree when they are getting skewed at one side.
 
