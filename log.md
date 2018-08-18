@@ -43,3 +43,11 @@
 2. Implement Binary search tree
 
 **Link to work:** [STL.js](https://github.com/n20084753/STL.js)
+
+### Day 5: August 18, 2018
+
+**Today's Progress**: STL.js library - Landed from linear to non-linear teritory of data structure had fun learning and implementing.
+
+**Tomorrow's Plan**: Fixing the problem in binary search tree that is balance the tree when they are getting skewed at one side.
+
+**Link to work:** [STL.js](https://github.com/n20084753/STL.js)
