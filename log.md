@@ -54,7 +54,7 @@
 
 ### Day 6: August 19, 2018
 
-**Today's Progress**: STL.js library - AVL Tree what a beautiful piece of work from two great mathameticians Adelson-Velsky and Landis to balance the Binary search tree and make sure that all operations cost only O(log n). Had super fun learning and implementeing them.
+**Today's Progress**: STL.js library - AVL Tree what a beautiful piece of work from two great mathematicians Adelson-Velsky and Landis to balance the Binary search tree and make sure that all operations cost only O(log n). Had super fun learning and implementing them.
 
 **Tomorrow's Plan**: Try my hands on red black tree which is almost similar to AVL trees for balancing binary search tree.
 
