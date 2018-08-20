@@ -59,3 +59,15 @@
 **Tomorrow's Plan**: Try my hands on red black tree which is almost similar to AVL trees for balancing binary search tree.
 
 **Link to work:** [STL.js](https://github.com/n20084753/STL.js)
+
+### Day 7: August 20, 2018
+
+**Today's Progress**: STL.js library - Red Black Tree: Revisited another awesome algorithm to balance the binary search tree and implemented the insertion logic.
+
+**Tomorrow's Plan**: 
+1. To implemente the balancing logic when removing the node from Red Black Tee.
+2. Standardize the method names of the library(code cleanup) 
+3. Also thinking about visualizing and animate the all implemented data structrues.
+4. Documentation and unit tests
+
+**Link to work:** [STL.js/RedBlackTree](https://github.com/n20084753/STL.js/blob/master/src/js/RedBlackTree.js)
